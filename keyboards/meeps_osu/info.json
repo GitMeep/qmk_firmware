@@ -1,0 +1,15 @@
+{
+    "keyboard_name": "meeps_osu",
+    "url": "meeps.dk",
+    "maintainer": "Pelle Domela",
+    "width": 2,
+    "height": 1,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"k00", "x":0, "y":0},
+                {"label":"k01", "x":1, "y":0},
+            ]
+        }
+    }
+}
